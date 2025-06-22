@@ -53,6 +53,10 @@ Poor: Noticeable pollution that may cause health issues for sensitive groups.
 Hazardous: Highly polluted air posing serious health risks to the population.
 
 ---
+---
+## 📊 Power BI Dashboard
+
+The project includes an interactive Power BI dashboard for visualizing air quality metrics and pollution levels.
 
 ## 📊 Exploratory Data Analysis (EDA)
 **Air Quality Distribution**
